@@ -1,4 +1,4 @@
-# Fyneform
+# Generate a Fyne GUI Form based on Go types
 
 [![License](https://img.shields.io/github/license/switchupcb/fyneform.svg?style=for-the-badge)](https://github.com/switchupcb/fyneform/blob/main/LICENSE)
 
