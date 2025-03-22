@@ -101,5 +101,5 @@ _You must execute this demonstration from the `example/app` directory so the Go 
 
 ### Output
 
-[![Fyneform Example Application Output](/example/app/output.png)](https://github.com/switchupcb/fyneform/blob/main/LICENSE)
+[![Fyneform Example Application Output](/example/app/output-min.png)](https://github.com/switchupcb/fyneform/blob/main/LICENSE)
 
