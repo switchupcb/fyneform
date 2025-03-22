@@ -1,0 +1,8 @@
+# Define where the code is generated.
+generated:
+  setup: ./setup.go
+  output: ../../app/fyneform/fyneform.go
+  template: ../fyneform/generate.go
+
+matcher:
+    skip: true
